@@ -8,6 +8,7 @@ MIT:
 
 - glmatrix by toji (https://github.com/toji/gl-matrix)
 - Platform.js (https://github.com/bestiejs/platform.js/)
+- socketcluster client (https://github.com/SocketCluster/socketcluster-client)
 
 Eclipse Public License:
 
