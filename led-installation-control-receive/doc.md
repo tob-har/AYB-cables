@@ -1,6 +1,7 @@
 ## Patch Variables:
 
 * __array-size__ ```Number```
+* __current-active-clients__ ```Number```
 * __fader-one-value__ ```Number```
 * __fader-two-value__ ```Number```
 * __midi-device-index__ ```Number```
