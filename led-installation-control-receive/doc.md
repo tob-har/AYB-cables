@@ -1,5 +1,6 @@
 ## Patch Variables:
 
+* __active-clients-or-array-size__ ```Number```
 * __array-size__ ```Number```
 * __current-active-clients__ ```Number```
 * __fader-one-value__ ```Number```
